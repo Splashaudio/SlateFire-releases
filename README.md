@@ -10,7 +10,7 @@ SlateFire is an app for firing video clips during live shows. Clips play full sc
 - Download `SlateFire-mac.zip`, unzip it, and move **SlateFire.app** to Applications.
 - The first time you open it, macOS may say it's from an unidentified developer. Right-click (or Control-click) the app, choose **Open**, then **Open** again. Or go to System Settings ▸ Privacy & Security and click **Open Anyway**.
 
-## Windows
+## Windows (coming soon)
 
 - Needs Windows 10 or 11 (64-bit). Nothing else to install.
 - Download `SlateFire-windows.zip` and unzip the whole folder. Keep all the files together and run **SlateFire.exe**.
