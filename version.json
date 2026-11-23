@@ -1,9 +1,12 @@
 {
-  "version": "0.3.0",
-  "notes": "The countdown counts down to the out point, including loops, without a minus sign.",
+  "version": "0.3.1",
+  "versions": {
+    "mac": "0.3.0"
+  },
+  "notes": "SlateFire now checks for new versions once a day.",
   "download": {
     "mac": "https://github.com/Splashaudio/SlateFire-releases/releases/download/v0.3.0/SlateFire-mac-0.3.0.zip",
-    "windows": "https://github.com/Splashaudio/SlateFire-releases/releases/download/v0.3.0/SlateFire-windows-0.3.0.zip"
+    "windows": "https://github.com/Splashaudio/SlateFire-releases/releases/download/v0.3.1/SlateFire-windows-0.3.1.zip"
   },
   "page": "https://github.com/Splashaudio/SlateFire-releases/releases/latest"
 }
