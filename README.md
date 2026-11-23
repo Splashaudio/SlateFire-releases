@@ -16,6 +16,10 @@ SlateFire is an app for firing video clips during live shows. Clips play full sc
 - Download `SlateFire-windows-<version>.zip` (about 130 MB) and unzip the whole folder: right-click the zip, choose **Extract All**, and don't run the app from inside the zip. Keep all the files together and run **SlateFire.exe**.
 - If Windows SmartScreen warns about an unknown publisher, click **More info** ▸ **Run anyway**.
 
+## Updates
+
+Once a day SlateFire checks whether a newer version is out (it downloads one small file and sends nothing but its version number). If there is one, a strip at the top of the main window offers **Download**, **Skip This Version** and **Later**; it never appears on the output. **Check for Updates…** (in the **SlateFire** menu on a Mac, **Help** on Windows) checks straight away and is where you turn the daily check off.
+
 ## Blackmagic output
 
 To output through a Blackmagic UltraStudio or DeckLink, install [Blackmagic Desktop Video](https://www.blackmagicdesign.com/support/family/capture-and-playback). On a Mac, also allow its system extension in System Settings ▸ Privacy & Security. Without it, SlateFire still works with display output only.
